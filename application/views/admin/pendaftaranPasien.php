@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="card-box table-responsive">
-                        <h4 class="m-t-0 header-title"><b>PENDAFTARAN PASIEN</b></h4>
+                        <h4 class="m-t-0 header-title"><b>PENDAFTARAN PASIEN Bidan</b></h4>
                         <!-- Full width modal -->
                         <div style="text-align: right; margin-bottom: 10px;">
                             <a href='#' class="on-default edit-row btn btn-success" data-toggle="modal" data-target="#custom-width-modal" onClick="ResetInput()" class="col-sm-6 col-md-4 col-lg-3">
